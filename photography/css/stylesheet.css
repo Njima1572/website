@@ -4,7 +4,7 @@
 }
 
 body{
-  width:1140px;
+  min-width: 1140px;
   margin-left:76px;
   margin-right:266px;
 }
@@ -27,6 +27,11 @@ body h1{
   padding-right:80px;
   font-weight: bold;
 }
+
+#title{
+  text-align: center;
+  margin-left:190px;
+}
   
 footer li{
   list-style: none;
@@ -48,8 +53,8 @@ footer ul li a:hover{
 }
 
 .square{
-  width:200px;
-  height:200px;
+  width:40px;
+  height:70px;
 }
 
 .white{
